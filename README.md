@@ -1,2 +1,3 @@
 # Kwanpyo Ko's Github Homepage
-Hello! This is my personal homepage. Uploaded codes are relevant to computation for macroeconomics models what I have studied in class lectures.
+Hello! This is my personal homepage. 
+Thw uploaded codes are works regarding macroeconomic model compuation, which I've done in my school lectures.
